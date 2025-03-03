@@ -1,16 +1,10 @@
 {
-    "name": "MrHat",
-    "version": "1.14.0",
+    "name": "BatteryPack",
+    "version": "1.0.0",
     "layers": [
         "F.Cu",
         "In1.Cu",
         "In2.Cu",
-        "In3.Cu",
-        "In4.Cu",
-        "In5.Cu",
-        "In6.Cu",
-        "In7.Cu",
-        "In8.Cu",
         "B.Cu"
     ]
 }
