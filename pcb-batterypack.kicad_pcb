@@ -5769,7 +5769,7 @@
 		(layer "Edge.Cuts")
 		(uuid "fee6926b-e972-4e22-a4c3-9bac048ae11f")
 	)
-	(gr_text "BatteryPack v1.0.0"
+	(gr_text "BatteryPack v1.0.1"
 		(at 150.471401 83.73 0)
 		(layer "F.Cu")
 		(uuid "df5be11f-54ab-439c-b064-ed0a0bf7d0be")
@@ -5782,7 +5782,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "BatteryPack v1.0.0"
+	(gr_text "BatteryPack v1.0.1"
 		(at 171.971401 83.73 -0)
 		(layer "B.Cu")
 		(uuid "fe3b0b1c-7b2e-4f99-b94b-1c027597ec39")
