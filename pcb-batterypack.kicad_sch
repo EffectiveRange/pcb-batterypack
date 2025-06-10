@@ -1074,6 +1074,16 @@
 		)
 		(uuid "fa8d4383-e86e-4151-816a-0bc0d1546519")
 	)
+	(text "NOTE: Since a straight cable is used\nthis pin layout is mirrored compared to the one on the MrHat pcb"
+		(exclude_from_sim no)
+		(at 183.896 90.932 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3d925fdf-fc48-4565-9e57-9b92b1f77420")
+	)
 	(label "BATP"
 		(at 160.02 99.06 0)
 		(effects
@@ -1237,15 +1247,15 @@
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 181.61 101.6 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5c885ad2-e0f5-4e4c-890b-54b4f70b09ad")
 		(property "Reference" "J1"
-			(at 184.15 100.3299 0)
+			(at 184.15 102.8701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1254,7 +1264,7 @@
 			)
 		)
 		(property "Value" "BATT_CON"
-			(at 184.15 102.8699 0)
+			(at 184.15 100.3301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
