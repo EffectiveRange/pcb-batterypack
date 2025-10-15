@@ -1,6 +1,6 @@
 {
     "name": "BatteryPack",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "layers": [
         "F.Cu",
         "In1.Cu",
