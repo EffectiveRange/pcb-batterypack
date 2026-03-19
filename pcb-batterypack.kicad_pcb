@@ -5832,7 +5832,7 @@
 		)
 	)
 	(gr_text "+"
-		(at 123.175 66.62 90)
+		(at 123.313401 59.948 90)
 		(layer "F.SilkS")
 		(uuid "56390f1b-cb01-46c1-ba48-6c8d2697fd8c")
 		(effects
@@ -5845,7 +5845,7 @@
 		)
 	)
 	(gr_text "-"
-		(at 123.155 59.93 90)
+		(at 123.313401 66.679 90)
 		(layer "F.SilkS")
 		(uuid "a4f0babf-e140-4c94-841f-53078aedf72b")
 		(effects
@@ -5858,7 +5858,7 @@
 		)
 	)
 	(gr_text "NTC"
-		(at 123.313401 64.23 90)
+		(at 123.313401 64.637143 90)
 		(layer "F.SilkS")
 		(uuid "c2c67e61-df58-4c7c-84c0-73d05f908ceb")
 		(effects
